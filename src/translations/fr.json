@@ -731,7 +731,7 @@
     "insuree.setInsureePhoto.mutationLabel": "Ajouter\/mettre à jour la photo pour assurer {insuree}",
     "insuree_batch.BatchFilters.fromRunDate": "Du",
     "insuree_batch.BatchFilters.toRunDate": "Jusqu'au",
-    "insuree_batch.BatchSearcher.exportActionButton": "Exporter les assurés"
+    "insuree_batch.BatchSearcher.exportActionButton": "Exporter les assurés",
     "insuree_batch.BatchSearcher.printActionButton": "Imprimer les QR codes",
     "insuree_batch.BatchSearcher.tableTitle": "{count} lots",
     "insuree_batch.CreateBatchDialog.cancel": "Annuler",
@@ -1238,6 +1238,12 @@
     "product.Product.none": "Aucun",
     "product.ProductPicker.null": "Tout",
     "product.ProductPicker.placehoder": "Rechercher un Paquet de bénéfices...",
+    "profile.ChangePasswordPage.confirmPasswordLabel": "",
+    "profile.ChangePasswordPage.newPasswordLabel": "",
+    "profile.ChangePasswordPage.notEqualError": "",
+    "profile.ChangePasswordPage.oldPasswordLabel": "",
+    "profile.ChangePasswordPage.submitButton": "",
+    "profile.ChangePasswordPage.title": "",
     "profile.mainMenu": "Profil",
     "profile.menu.changePassword": "Changer de mot de passe",
     "row.actions": "Actions",
@@ -1261,5 +1267,5 @@
     "validation.minValue": "{value} sous les {min} autorisés",
     "year": "Année",
     "year.null": "tous",
-    "year.select": " ",
+    "year.select": " "
 }
