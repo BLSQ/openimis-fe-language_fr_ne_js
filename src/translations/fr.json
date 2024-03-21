@@ -263,7 +263,7 @@
     "insuree.Insuree.picker.dialog.title": "Rechercher un assuré",
     "insuree.Insuree.chfId": "N° d'assuré",
     "insuree.Insuree.lastName": "Nom de famille",
-    "insuree.Insuree.otherNames": "Autres noms",
+    "insuree.Insuree.otherNames": "Prénom(s)",
     "location.HealthFacilityFullPath.region": "Région",
     "location.HealthFacilityFullPath.district": "District",
     "location.HealthFacilityFullPath.healthFacility": "ESA",
@@ -3112,5 +3112,8 @@
     "contribution.familySummaries.lastName": "Head Last Name",
     "contribution.familySummaries.otherNames": "Head Given Name",
     "contribution.familySummaries.dob": "Head Birth Date",
-    "contribution.redirectToFamily.tooltip": "Redirect to the family"
+    "contribution.redirectToFamily.tooltip": "Redirect to the family",
+    "insuree_batch.CreateBatchDialog.explanation": "Créez et réservez les identifiants des assurés dans la base de données. Vous pourrez imprimer des QR codes par la suite pour lier ces identifiants aux nouveaux assurés.",
+    "insuree_batch.BatchSearcher.printActionButton": "Imprimer les QR codes",
+    "insuree_batch.BatchSearcher.exportActionButton": "Exporter les assurés"
 }
